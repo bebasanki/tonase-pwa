@@ -3,9 +3,9 @@
   "short_name": "Tonase",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#121212",
-  "description": "Aplikasi penghitung tonase batubara",
+  "background_color": "#121212",
+  "theme_color": "#00bfa5",
+  "description": "Aplikasi penghitung tonase batubara dengan stopwatch dan dark mode",
   "icons": [
     {
       "src": "icons/icon-192.png",
