@@ -1,8 +1,10 @@
 const cacheName = "tonase-cache-v1";
 const assets = [
   "/index.html",
-  "/manifest.json",
-  "/service-worker.js"
+  "/manifest.webmanifest",
+  "/service-worker.js",
+  "/icons/icon-192.png",
+  "/icons/icon-512.png"
 ];
 
 self.addEventListener("install", event => {
